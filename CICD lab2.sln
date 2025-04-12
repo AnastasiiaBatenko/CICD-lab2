@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CICD lab2", "CICD lab2\CICD lab2.pyproj", "{75A8A31C-99DD-483D-B4BA-0BEC879E0369}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75A8A31C-99DD-483D-B4BA-0BEC879E0369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A8A31C-99DD-483D-B4BA-0BEC879E0369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10EFD449-186F-4FF4-9C05-6E7AB62A6CCE}
+	EndGlobalSection
+EndGlobal
